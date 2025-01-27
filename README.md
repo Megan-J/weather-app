@@ -1,1 +1,3 @@
-# weather-app
+# Basic Weather App
+
+Uses React
